@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/pawargajendra01/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/pawargajendra01/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/pawargajendra01/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2239-find-closest-number-to-zero](https://github.com/pawargajendra01/LeetCode/tree/master/2239-find-closest-number-to-zero) |
 ## Simulation
 |  |
 | ------- |

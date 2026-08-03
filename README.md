@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/pawargajendra01/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/pawargajendra01/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2239-find-closest-number-to-zero](https://github.com/pawargajendra01/LeetCode/tree/master/2239-find-closest-number-to-zero) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/pawargajendra01/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
 ## Simulation
 |  |
 | ------- |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pawargajendra01/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/pawargajendra01/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pawargajendra01/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/pawargajendra01/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
 ## Math
 |  |
 | ------- |

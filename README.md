@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2293-min-max-game](https://github.com/pawargajendra01/LeetCode/tree/master/2293-min-max-game) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/pawargajendra01/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/pawargajendra01/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2363-merge-similar-items](https://github.com/pawargajendra01/LeetCode/tree/master/2363-merge-similar-items) |
 ## Simulation
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/pawargajendra01/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/pawargajendra01/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/pawargajendra01/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2363-merge-similar-items](https://github.com/pawargajendra01/LeetCode/tree/master/2363-merge-similar-items) |
 ## Stack
 |  |
 | ------- |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/pawargajendra01/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/pawargajendra01/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/pawargajendra01/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2363-merge-similar-items](https://github.com/pawargajendra01/LeetCode/tree/master/2363-merge-similar-items) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -476,4 +479,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pawargajendra01/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2363-merge-similar-items](https://github.com/pawargajendra01/LeetCode/tree/master/2363-merge-similar-items) |
 <!---LeetCode Topics End-->

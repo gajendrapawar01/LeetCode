@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/pawargajendra01/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/pawargajendra01/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2363-merge-similar-items](https://github.com/pawargajendra01/LeetCode/tree/master/2363-merge-similar-items) |
+| [2367-number-of-arithmetic-triplets](https://github.com/pawargajendra01/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 ## Simulation
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/pawargajendra01/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/pawargajendra01/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2363-merge-similar-items](https://github.com/pawargajendra01/LeetCode/tree/master/2363-merge-similar-items) |
+| [2367-number-of-arithmetic-triplets](https://github.com/pawargajendra01/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 ## Stack
 |  |
 | ------- |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/pawargajendra01/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/pawargajendra01/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pawargajendra01/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2367-number-of-arithmetic-triplets](https://github.com/pawargajendra01/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 ## Binary Search
 |  |
 | ------- |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/pawargajendra01/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1995-count-special-quadruplets](https://github.com/pawargajendra01/LeetCode/tree/master/1995-count-special-quadruplets) |
 | [2094-finding-3-digit-even-numbers](https://github.com/pawargajendra01/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2367-number-of-arithmetic-triplets](https://github.com/pawargajendra01/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 ## Recursion
 |  |
 | ------- |

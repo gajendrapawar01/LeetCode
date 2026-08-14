@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/pawargajendra01/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2363-merge-similar-items](https://github.com/pawargajendra01/LeetCode/tree/master/2363-merge-similar-items) |
 | [2367-number-of-arithmetic-triplets](https://github.com/pawargajendra01/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/pawargajendra01/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/pawargajendra01/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/pawargajendra01/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/pawargajendra01/LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/pawargajendra01/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
 ## String
 |  |
 | ------- |

@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/pawargajendra01/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/pawargajendra01/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/pawargajendra01/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2399-check-distances-between-same-letters](https://github.com/pawargajendra01/LeetCode/tree/master/2399-check-distances-between-same-letters) |
 ## Simulation
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-maximum-number-of-pairs-in-array](https://github.com/pawargajendra01/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2363-merge-similar-items](https://github.com/pawargajendra01/LeetCode/tree/master/2363-merge-similar-items) |
 | [2367-number-of-arithmetic-triplets](https://github.com/pawargajendra01/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2399-check-distances-between-same-letters](https://github.com/pawargajendra01/LeetCode/tree/master/2399-check-distances-between-same-letters) |
 ## Stack
 |  |
 | ------- |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pawargajendra01/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/pawargajendra01/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/pawargajendra01/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2399-check-distances-between-same-letters](https://github.com/pawargajendra01/LeetCode/tree/master/2399-check-distances-between-same-letters) |
 ## Math
 |  |
 | ------- |

@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2373-largest-local-values-in-a-matrix](https://github.com/pawargajendra01/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/pawargajendra01/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2399-check-distances-between-same-letters](https://github.com/pawargajendra01/LeetCode/tree/master/2399-check-distances-between-same-letters) |
+| [2404-most-frequent-even-element](https://github.com/pawargajendra01/LeetCode/tree/master/2404-most-frequent-even-element) |
 ## Simulation
 |  |
 | ------- |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2363-merge-similar-items](https://github.com/pawargajendra01/LeetCode/tree/master/2363-merge-similar-items) |
 | [2367-number-of-arithmetic-triplets](https://github.com/pawargajendra01/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2399-check-distances-between-same-letters](https://github.com/pawargajendra01/LeetCode/tree/master/2399-check-distances-between-same-letters) |
+| [2404-most-frequent-even-element](https://github.com/pawargajendra01/LeetCode/tree/master/2404-most-frequent-even-element) |
 ## Stack
 |  |
 | ------- |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/pawargajendra01/LeetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/pawargajendra01/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/pawargajendra01/LeetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2404-most-frequent-even-element](https://github.com/pawargajendra01/LeetCode/tree/master/2404-most-frequent-even-element) |
 ## Matrix
 |  |
 | ------- |

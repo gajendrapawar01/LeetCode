@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/pawargajendra01/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2399-check-distances-between-same-letters](https://github.com/pawargajendra01/LeetCode/tree/master/2399-check-distances-between-same-letters) |
 | [2404-most-frequent-even-element](https://github.com/pawargajendra01/LeetCode/tree/master/2404-most-frequent-even-element) |
+| [2432-the-employee-that-worked-on-the-longest-task](https://github.com/pawargajendra01/LeetCode/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
 ## Simulation
 |  |
 | ------- |

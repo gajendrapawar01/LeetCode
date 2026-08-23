@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/pawargajendra01/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2432-the-employee-that-worked-on-the-longest-task](https://github.com/pawargajendra01/LeetCode/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/pawargajendra01/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/pawargajendra01/LeetCode/tree/master/2446-determine-if-two-events-have-conflict) |
 ## Simulation
 |  |
 | ------- |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-count-prefixes-of-a-given-string](https://github.com/pawargajendra01/LeetCode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/pawargajendra01/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2399-check-distances-between-same-letters](https://github.com/pawargajendra01/LeetCode/tree/master/2399-check-distances-between-same-letters) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/pawargajendra01/LeetCode/tree/master/2446-determine-if-two-events-have-conflict) |
 ## Math
 |  |
 | ------- |

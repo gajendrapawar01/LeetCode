@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/pawargajendra01/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/pawargajendra01/LeetCode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/gajendrapawar01/LeetCode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
+| [2460-apply-operations-to-an-array](https://github.com/gajendrapawar01/LeetCode/tree/main/2460-apply-operations-to-an-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/pawargajendra01/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/pawargajendra01/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2293-min-max-game](https://github.com/pawargajendra01/LeetCode/tree/master/2293-min-max-game) |
+| [2460-apply-operations-to-an-array](https://github.com/gajendrapawar01/LeetCode/tree/main/2460-apply-operations-to-an-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pawargajendra01/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/pawargajendra01/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/pawargajendra01/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2460-apply-operations-to-an-array](https://github.com/gajendrapawar01/LeetCode/tree/main/2460-apply-operations-to-an-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |

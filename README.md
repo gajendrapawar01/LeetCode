@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/pawargajendra01/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/gajendrapawar01/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/pawargajendra01/LeetCode/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/gajendrapawar01/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pawargajendra01/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/pawargajendra01/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/pawargajendra01/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/pawargajendra01/LeetCode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/gajendrapawar01/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0561-array-partition](https://github.com/pawargajendra01/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/pawargajendra01/LeetCode/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/pawargajendra01/LeetCode/tree/master/0860-lemonade-change) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/gajendrapawar01/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/pawargajendra01/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/pawargajendra01/LeetCode/tree/master/0119-pascals-triangle-ii) |
 ## String Matching

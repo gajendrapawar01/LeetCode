@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/gajendrapawar01/LeetCode/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/gajendrapawar01/LeetCode/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/gajendrapawar01/LeetCode/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/gajendrapawar01/LeetCode/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/pawargajendra01/LeetCode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2399-check-distances-between-same-letters](https://github.com/pawargajendra01/LeetCode/tree/master/2399-check-distances-between-same-letters) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/pawargajendra01/LeetCode/tree/master/2446-determine-if-two-events-have-conflict) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/gajendrapawar01/LeetCode/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |

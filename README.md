@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/gajendrapawar01/LeetCode/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/gajendrapawar01/LeetCode/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/gajendrapawar01/LeetCode/tree/main/2496-maximum-value-of-a-string-in-an-array/) | Easy |
+| [2500-delete-greatest-value-in-each-row](https://github.com/gajendrapawar01/LeetCode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/pawargajendra01/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2293-min-max-game](https://github.com/pawargajendra01/LeetCode/tree/master/2293-min-max-game) |
 | [2460-apply-operations-to-an-array](https://github.com/gajendrapawar01/LeetCode/tree/main/2460-apply-operations-to-an-array/) | Easy |
+| [2500-delete-greatest-value-in-each-row](https://github.com/gajendrapawar01/LeetCode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/pawargajendra01/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/gajendrapawar01/LeetCode/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/gajendrapawar01/LeetCode/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
+| [2500-delete-greatest-value-in-each-row](https://github.com/gajendrapawar01/LeetCode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pawargajendra01/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/pawargajendra01/LeetCode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/pawargajendra01/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/gajendrapawar01/LeetCode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -336,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/pawargajendra01/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/pawargajendra01/LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/pawargajendra01/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/gajendrapawar01/LeetCode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |

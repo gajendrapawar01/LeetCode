@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/gajendrapawar01/LeetCode/tree/main/2511-maximum-enemy-forts-that-can-be-captured/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/gajendrapawar01/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gajendrapawar01/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/gajendrapawar01/LeetCode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/pawargajendra01/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pawargajendra01/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/gajendrapawar01/LeetCode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/gajendrapawar01/LeetCode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/gajendrapawar01/LeetCode/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/gajendrapawar01/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/gajendrapawar01/LeetCode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
+| [2562-find-the-array-concatenation-value](https://github.com/gajendrapawar01/LeetCode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/gajendrapawar01/LeetCode/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/gajendrapawar01/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/gajendrapawar01/LeetCode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
+| [2562-find-the-array-concatenation-value](https://github.com/gajendrapawar01/LeetCode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/gajendrapawar01/LeetCode/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/gajendrapawar01/LeetCode/tree/main/2511-maximum-enemy-forts-that-can-be-captured/) | Easy |
 | [2540-minimum-common-value](https://github.com/gajendrapawar01/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
+| [2562-find-the-array-concatenation-value](https://github.com/gajendrapawar01/LeetCode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/gajendrapawar01/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/gajendrapawar01/LeetCode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/gajendrapawar01/LeetCode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/gajendrapawar01/LeetCode/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/gajendrapawar01/LeetCode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2540-minimum-common-value](https://github.com/gajendrapawar01/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/gajendrapawar01/LeetCode/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/gajendrapawar01/LeetCode/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/gajendrapawar01/LeetCode/tree/main/2511-maximum-enemy-forts-that-can-be-captured/) | Easy |
 | [2540-minimum-common-value](https://github.com/gajendrapawar01/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/gajendrapawar01/LeetCode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/gajendrapawar01/LeetCode/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |

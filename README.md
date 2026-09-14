@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/gajendrapawar01/LeetCode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/gajendrapawar01/LeetCode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/gajendrapawar01/LeetCode/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/gajendrapawar01/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/pawargajendra01/LeetCode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1991-find-the-middle-index-in-array](https://github.com/pawargajendra01/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/pawargajendra01/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2574-left-and-right-sum-differences](https://github.com/gajendrapawar01/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |

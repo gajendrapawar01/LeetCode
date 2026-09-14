@@ -10,8 +10,7 @@ class Solution {
             leftTotal+=temp;
             temp=nums[i];
             rightTotal-=temp;
-            int ans=Math.abs(leftTotal-rightTotal);
-            nums[i]=ans;
+            nums[i]=Math.abs(leftTotal-rightTotal);
         }
         return nums;
     }

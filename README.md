@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/gajendrapawar01/LeetCode/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/gajendrapawar01/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/gajendrapawar01/LeetCode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/gajendrapawar01/LeetCode/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/gajendrapawar01/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/gajendrapawar01/LeetCode/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/gajendrapawar01/LeetCode/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/gajendrapawar01/LeetCode/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-count-special-quadruplets](https://github.com/pawargajendra01/LeetCode/tree/master/1995-count-special-quadruplets) |
 | [2094-finding-3-digit-even-numbers](https://github.com/pawargajendra01/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2367-number-of-arithmetic-triplets](https://github.com/pawargajendra01/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/gajendrapawar01/LeetCode/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |

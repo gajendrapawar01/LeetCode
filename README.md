@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/gajendrapawar01/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/gajendrapawar01/LeetCode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/gajendrapawar01/LeetCode/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
+| [2614-prime-in-diagonal](https://github.com/gajendrapawar01/LeetCode/tree/main/2614-prime-in-diagonal/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/pawargajendra01/LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/pawargajendra01/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/gajendrapawar01/LeetCode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
+| [2614-prime-in-diagonal](https://github.com/gajendrapawar01/LeetCode/tree/main/2614-prime-in-diagonal/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/gajendrapawar01/LeetCode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/gajendrapawar01/LeetCode/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2549-count-distinct-numbers-on-board](https://github.com/gajendrapawar01/LeetCode/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
+| [2614-prime-in-diagonal](https://github.com/gajendrapawar01/LeetCode/tree/main/2614-prime-in-diagonal/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -570,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pawargajendra01/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2614-prime-in-diagonal](https://github.com/gajendrapawar01/LeetCode/tree/main/2614-prime-in-diagonal/) | Easy |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |

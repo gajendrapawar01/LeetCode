@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/gajendrapawar01/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/gajendrapawar01/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/gajendrapawar01/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/gajendrapawar01/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pawargajendra01/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/pawargajendra01/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/pawargajendra01/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/pawargajendra01/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/pawargajendra01/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/gajendrapawar01/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0496-next-greater-element-i](https://github.com/pawargajendra01/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/pawargajendra01/LeetCode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/pawargajendra01/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0015-3sum](https://github.com/pawargajendra01/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/pawargajendra01/LeetCode/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/gajendrapawar01/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0506-relative-ranks](https://github.com/pawargajendra01/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/pawargajendra01/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pawargajendra01/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/gajendrapawar01/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/pawargajendra01/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0804-unique-morse-code-words](https://github.com/pawargajendra01/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/pawargajendra01/LeetCode/tree/master/0806-number-of-lines-to-write-string) |

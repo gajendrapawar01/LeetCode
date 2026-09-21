@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/gajendrapawar01/LeetCode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/gajendrapawar01/LeetCode/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/gajendrapawar01/LeetCode/tree/main/2614-prime-in-diagonal/) | Easy |
+| [2639-find-the-width-of-columns-of-a-grid](https://github.com/gajendrapawar01/LeetCode/tree/main/2639-find-the-width-of-columns-of-a-grid/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2373-largest-local-values-in-a-matrix](https://github.com/pawargajendra01/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/gajendrapawar01/LeetCode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/gajendrapawar01/LeetCode/tree/main/2614-prime-in-diagonal/) | Easy |
+| [2639-find-the-width-of-columns-of-a-grid](https://github.com/gajendrapawar01/LeetCode/tree/main/2639-find-the-width-of-columns-of-a-grid/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |

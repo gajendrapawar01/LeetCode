@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/gajendrapawar01/LeetCode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/gajendrapawar01/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/gajendrapawar01/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/gajendrapawar01/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pawargajendra01/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/pawargajendra01/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/pawargajendra01/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pawargajendra01/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/gajendrapawar01/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pawargajendra01/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Tree
 | Problem Name | Difficulty |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/gajendrapawar01/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
+| [0053-maximum-subarray](https://github.com/gajendrapawar01/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/pawargajendra01/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/pawargajendra01/LeetCode/tree/master/0119-pascals-triangle-ii) |
 ## String Matching

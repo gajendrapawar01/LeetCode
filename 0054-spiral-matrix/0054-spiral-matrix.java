@@ -1,4 +1,4 @@
-/*class Solution {
+class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
         List<Integer> list = new ArrayList<>();
         int row = matrix.length;
@@ -6,42 +6,54 @@
 
         int num = 0;
         int n = row * column;
+        int diff=0;
 
         int i=0;
         int j=0;
         while(num<n){
-            if(j<row){
+            while(j<column-diff && num<n){
                 list.add(matrix[i][j]);
+                num++;
                 j++;
             }
-            else if(i<column.length){
+            j--;
+            i++;
+            while(i<row-diff && num<n){
                 list.add(matrix[i][j]);
+                num++;
                 i++;
             }
-            if(j==row && i==column){
-                i--;
+            i--;
+            j--;
+            while(j>=0+diff && num<n){
+                list.add(matrix[i][j]);
+                num++;
                 j--;
-                while(){
-                    if(j>=0){
-                        list.add(matrix[i][j]);
-                        j--;
-                    }
-                    else if(j<0){
-                        list.add(matrix[i][j]);
-                        i++;
-                    }
-                    num++;
-                }
             }
-            num++;
+            j++;
+            i--;
+            diff++;
+            while(i>=diff && num<n){
+                list.add(matrix[i][j]);
+                num++;
+                    i--;
+            }
+            i++;
+            j++;
         }
         return list;
     }
-}*/
+}
 
 
 
-import java.util.ArrayList;
+
+
+
+
+
+
+/*import java.util.ArrayList;
 import java.util.List;
 
 class Solution {
@@ -86,4 +98,4 @@ class Solution {
 
         return result;
     }
-}
+}*/

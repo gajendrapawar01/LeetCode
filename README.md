@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/gajendrapawar01/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/gajendrapawar01/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/gajendrapawar01/LeetCode/tree/main/0056-merge-intervals/) | Medium |
+| [0057-insert-interval](https://github.com/gajendrapawar01/LeetCode/tree/main/0057-insert-interval/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pawargajendra01/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/pawargajendra01/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/pawargajendra01/LeetCode/tree/master/0119-pascals-triangle-ii) |

@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/gajendrapawar01/LeetCode/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/gajendrapawar01/LeetCode/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/gajendrapawar01/LeetCode/tree/main/2639-find-the-width-of-columns-of-a-grid/) | Easy |
+| [2644-find-the-maximum-divisibility-score](https://github.com/gajendrapawar01/LeetCode/tree/main/2644-find-the-maximum-divisibility-score/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |

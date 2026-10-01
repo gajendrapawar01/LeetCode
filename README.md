@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/gajendrapawar01/LeetCode/tree/main/2639-find-the-width-of-columns-of-a-grid/) | Easy |
 | [2644-find-the-maximum-divisibility-score](https://github.com/gajendrapawar01/LeetCode/tree/main/2644-find-the-maximum-divisibility-score/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/gajendrapawar01/LeetCode/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
+| [2660-determine-the-winner-of-a-bowling-game](https://github.com/gajendrapawar01/LeetCode/tree/main/2660-determine-the-winner-of-a-bowling-game/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/gajendrapawar01/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/gajendrapawar01/LeetCode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/gajendrapawar01/LeetCode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
+| [2660-determine-the-winner-of-a-bowling-game](https://github.com/gajendrapawar01/LeetCode/tree/main/2660-determine-the-winner-of-a-bowling-game/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |

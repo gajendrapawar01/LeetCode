@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2644-find-the-maximum-divisibility-score](https://github.com/gajendrapawar01/LeetCode/tree/main/2644-find-the-maximum-divisibility-score/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/gajendrapawar01/LeetCode/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/gajendrapawar01/LeetCode/tree/main/2660-determine-the-winner-of-a-bowling-game/) | Easy |
+| [2670-find-the-distinct-difference-array](https://github.com/gajendrapawar01/LeetCode/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/gajendrapawar01/LeetCode/tree/main/2549-count-distinct-numbers-on-board/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/gajendrapawar01/LeetCode/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/gajendrapawar01/LeetCode/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
+| [2670-find-the-distinct-difference-array](https://github.com/gajendrapawar01/LeetCode/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/gajendrapawar01/LeetCode/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/gajendrapawar01/LeetCode/tree/main/2660-determine-the-winner-of-a-bowling-game/) | Easy |
 | [2670-find-the-distinct-difference-array](https://github.com/gajendrapawar01/LeetCode/tree/main/2670-find-the-distinct-difference-array/) | Easy |
+| [2678-number-of-senior-citizens](https://github.com/gajendrapawar01/LeetCode/tree/main/2678-number-of-senior-citizens/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/gajendrapawar01/LeetCode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/gajendrapawar01/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/gajendrapawar01/LeetCode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
+| [2678-number-of-senior-citizens](https://github.com/gajendrapawar01/LeetCode/tree/main/2678-number-of-senior-citizens/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |

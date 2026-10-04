@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/gajendrapawar01/LeetCode/tree/main/2660-determine-the-winner-of-a-bowling-game/) | Easy |
 | [2670-find-the-distinct-difference-array](https://github.com/gajendrapawar01/LeetCode/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/gajendrapawar01/LeetCode/tree/main/2678-number-of-senior-citizens/) | Easy |
+| [2682-find-the-losers-of-the-circular-game](https://github.com/gajendrapawar01/LeetCode/tree/main/2682-find-the-losers-of-the-circular-game/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/gajendrapawar01/LeetCode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/gajendrapawar01/LeetCode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/gajendrapawar01/LeetCode/tree/main/2660-determine-the-winner-of-a-bowling-game/) | Easy |
+| [2682-find-the-losers-of-the-circular-game](https://github.com/gajendrapawar01/LeetCode/tree/main/2682-find-the-losers-of-the-circular-game/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/gajendrapawar01/LeetCode/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/gajendrapawar01/LeetCode/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
 | [2670-find-the-distinct-difference-array](https://github.com/gajendrapawar01/LeetCode/tree/main/2670-find-the-distinct-difference-array/) | Easy |
+| [2682-find-the-losers-of-the-circular-game](https://github.com/gajendrapawar01/LeetCode/tree/main/2682-find-the-losers-of-the-circular-game/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |

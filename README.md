@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2682-find-the-losers-of-the-circular-game](https://github.com/gajendrapawar01/LeetCode/tree/main/2682-find-the-losers-of-the-circular-game/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/gajendrapawar01/LeetCode/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2717-semi-ordered-permutation](https://github.com/gajendrapawar01/LeetCode/tree/main/2717-semi-ordered-permutation/) | Easy |
+| [2733-neither-minimum-nor-maximum](https://github.com/gajendrapawar01/LeetCode/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-number-of-unequal-triplets-in-array](https://github.com/gajendrapawar01/LeetCode/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/gajendrapawar01/LeetCode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/gajendrapawar01/LeetCode/tree/main/2706-buy-two-chocolates/) | Easy |
+| [2733-neither-minimum-nor-maximum](https://github.com/gajendrapawar01/LeetCode/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |

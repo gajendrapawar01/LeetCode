@@ -20,10 +20,10 @@ class Solution {
                     int m=matrix.length;
                     int n=matrix[0].length;
 
-                    for(int x=0;x<matrix[0].length;x++){
+                    for(int x=0;x<n;x++){
                         matrix[i][x]=0;    
                     }
-                    for(int x=0;x<matrix.length;x++){
+                    for(int x=0;x<m;x++){
                         matrix[x][j]=0;
                     }
     }

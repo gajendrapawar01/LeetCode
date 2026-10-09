@@ -11,33 +11,20 @@ class Solution {
             for(int j=0;j<n;j++){
                 int num = copy[i][j];
                 if(num==0){
-                    zeroSetter(i,j,matrix,copy);
+                    zeroSetter(i,j,matrix);
                 }
             }
         }
     }
-    public void zeroSetter(int i,int j,int[][] matrix,int[][] copy){
+    public void zeroSetter(int i,int j,int[][] matrix){
                     int m=matrix.length;
                     int n=matrix[0].length;
-                    int u=i-1;
-                    int d=i+1;
-                    int b=j-1;
-                    int f=j+1;
-                    while(u>=0 && copy[u][j]!=0){
-                        matrix[u][j]=0;
-                        u--;
+
+                    for(int x=0;x<matrix[0].length;x++){
+                        matrix[i][x]=0;    
                     }
-                    while(d<m && copy[d][j]!=0){
-                        matrix[d][j]=0;
-                        d++;
-                    }
-                    while(f<n && copy[i][f]!=0){
-                        matrix[i][f]=0;
-                        f++;
-                    }
-                    while(b>=0 && copy[i][b]!=0){
-                        matrix[i][b]=0;
-                        b--;
+                    for(int x=0;x<matrix.length;x++){
+                        matrix[x][j]=0;
                     }
     }
 }

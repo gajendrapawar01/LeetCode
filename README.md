@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2717-semi-ordered-permutation](https://github.com/gajendrapawar01/LeetCode/tree/main/2717-semi-ordered-permutation/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/gajendrapawar01/LeetCode/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/gajendrapawar01/LeetCode/tree/main/2748-number-of-beautiful-pairs/) | Easy |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/gajendrapawar01/LeetCode/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/pawargajendra01/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/pawargajendra01/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/pawargajendra01/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/gajendrapawar01/LeetCode/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |

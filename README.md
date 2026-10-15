@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2748-number-of-beautiful-pairs](https://github.com/gajendrapawar01/LeetCode/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/gajendrapawar01/LeetCode/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gajendrapawar01/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/gajendrapawar01/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2670-find-the-distinct-difference-array](https://github.com/gajendrapawar01/LeetCode/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/gajendrapawar01/LeetCode/tree/main/2682-find-the-losers-of-the-circular-game/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/gajendrapawar01/LeetCode/tree/main/2748-number-of-beautiful-pairs/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/gajendrapawar01/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/gajendrapawar01/LeetCode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/gajendrapawar01/LeetCode/tree/main/2706-buy-two-chocolates/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/gajendrapawar01/LeetCode/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/gajendrapawar01/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |

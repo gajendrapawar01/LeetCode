@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/gajendrapawar01/LeetCode/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gajendrapawar01/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/gajendrapawar01/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2788-split-strings-by-separator](https://github.com/gajendrapawar01/LeetCode/tree/main/2788-split-strings-by-separator/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/gajendrapawar01/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/gajendrapawar01/LeetCode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/gajendrapawar01/LeetCode/tree/main/2678-number-of-senior-citizens/) | Easy |
+| [2788-split-strings-by-separator](https://github.com/gajendrapawar01/LeetCode/tree/main/2788-split-strings-by-separator/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |

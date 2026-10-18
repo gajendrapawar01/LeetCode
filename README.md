@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pawargajendra01/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/pawargajendra01/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/pawargajendra01/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/gajendrapawar01/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/pawargajendra01/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/pawargajendra01/LeetCode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/pawargajendra01/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/pawargajendra01/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/gajendrapawar01/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/gajendrapawar01/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/gajendrapawar01/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0496-next-greater-element-i](https://github.com/pawargajendra01/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/pawargajendra01/LeetCode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/pawargajendra01/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/pawargajendra01/LeetCode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/gajendrapawar01/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/gajendrapawar01/LeetCode/tree/main/0056-merge-intervals/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/gajendrapawar01/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0506-relative-ranks](https://github.com/pawargajendra01/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/pawargajendra01/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pawargajendra01/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -502,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/pawargajendra01/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/pawargajendra01/LeetCode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/pawargajendra01/LeetCode/tree/master/0031-next-permutation) |
+| [0349-intersection-of-two-arrays](https://github.com/gajendrapawar01/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/pawargajendra01/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/pawargajendra01/LeetCode/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/pawargajendra01/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -525,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/pawargajendra01/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gajendrapawar01/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/pawargajendra01/LeetCode/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/gajendrapawar01/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/pawargajendra01/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/pawargajendra01/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0888-fair-candy-swap](https://github.com/pawargajendra01/LeetCode/tree/master/0888-fair-candy-swap) |

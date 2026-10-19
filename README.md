@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/gajendrapawar01/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2788-split-strings-by-separator](https://github.com/gajendrapawar01/LeetCode/tree/main/2788-split-strings-by-separator/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/gajendrapawar01/LeetCode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
+| [2815-max-pair-sum-in-an-array](https://github.com/gajendrapawar01/LeetCode/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2682-find-the-losers-of-the-circular-game](https://github.com/gajendrapawar01/LeetCode/tree/main/2682-find-the-losers-of-the-circular-game/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/gajendrapawar01/LeetCode/tree/main/2748-number-of-beautiful-pairs/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/gajendrapawar01/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2815-max-pair-sum-in-an-array](https://github.com/gajendrapawar01/LeetCode/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |

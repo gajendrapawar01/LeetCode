@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gajendrapawar01/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/gajendrapawar01/LeetCode/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/gajendrapawar01/LeetCode/tree/main/2848-points-that-intersect-with-cars/) | Easy |
+| [2855-minimum-right-shifts-to-sort-the-array](https://github.com/gajendrapawar01/LeetCode/tree/main/2855-minimum-right-shifts-to-sort-the-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |

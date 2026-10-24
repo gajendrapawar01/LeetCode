@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/gajendrapawar01/LeetCode/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/gajendrapawar01/LeetCode/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/gajendrapawar01/LeetCode/tree/main/2855-minimum-right-shifts-to-sort-the-array/) | Easy |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/gajendrapawar01/LeetCode/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/pawargajendra01/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2032-two-out-of-three](https://github.com/pawargajendra01/LeetCode/tree/master/2032-two-out-of-three) |
 | [2506-count-pairs-of-similar-strings](https://github.com/gajendrapawar01/LeetCode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/gajendrapawar01/LeetCode/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |

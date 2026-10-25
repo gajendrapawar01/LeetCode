@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2848-points-that-intersect-with-cars](https://github.com/gajendrapawar01/LeetCode/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/gajendrapawar01/LeetCode/tree/main/2855-minimum-right-shifts-to-sort-the-array/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/gajendrapawar01/LeetCode/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
+| [2869-minimum-operations-to-collect-elements](https://github.com/gajendrapawar01/LeetCode/tree/main/2869-minimum-operations-to-collect-elements/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/gajendrapawar01/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2815-max-pair-sum-in-an-array](https://github.com/gajendrapawar01/LeetCode/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/gajendrapawar01/LeetCode/tree/main/2848-points-that-intersect-with-cars/) | Easy |
+| [2869-minimum-operations-to-collect-elements](https://github.com/gajendrapawar01/LeetCode/tree/main/2869-minimum-operations-to-collect-elements/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/pawargajendra01/LeetCode/tree/master/2032-two-out-of-three) |
 | [2506-count-pairs-of-similar-strings](https://github.com/gajendrapawar01/LeetCode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/gajendrapawar01/LeetCode/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
+| [2869-minimum-operations-to-collect-elements](https://github.com/gajendrapawar01/LeetCode/tree/main/2869-minimum-operations-to-collect-elements/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |

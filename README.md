@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/gajendrapawar01/LeetCode/tree/main/2855-minimum-right-shifts-to-sort-the-array/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/gajendrapawar01/LeetCode/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2869-minimum-operations-to-collect-elements](https://github.com/gajendrapawar01/LeetCode/tree/main/2869-minimum-operations-to-collect-elements/) | Easy |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/gajendrapawar01/LeetCode/tree/main/2873-maximum-value-of-an-ordered-triplet-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/pawargajendra01/LeetCode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2574-left-and-right-sum-differences](https://github.com/gajendrapawar01/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/gajendrapawar01/LeetCode/tree/main/2848-points-that-intersect-with-cars/) | Easy |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/gajendrapawar01/LeetCode/tree/main/2873-maximum-value-of-an-ordered-triplet-i/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |

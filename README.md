@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/gajendrapawar01/LeetCode/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2869-minimum-operations-to-collect-elements](https://github.com/gajendrapawar01/LeetCode/tree/main/2869-minimum-operations-to-collect-elements/) | Easy |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/gajendrapawar01/LeetCode/tree/main/2873-maximum-value-of-an-ordered-triplet-i/) | Easy |
+| [2899-last-visited-integers](https://github.com/gajendrapawar01/LeetCode/tree/main/2899-last-visited-integers/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/gajendrapawar01/LeetCode/tree/main/2660-determine-the-winner-of-a-bowling-game/) | Easy |
 | [2682-find-the-losers-of-the-circular-game](https://github.com/gajendrapawar01/LeetCode/tree/main/2682-find-the-losers-of-the-circular-game/) | Easy |
 | [2717-semi-ordered-permutation](https://github.com/gajendrapawar01/LeetCode/tree/main/2717-semi-ordered-permutation/) | Easy |
+| [2899-last-visited-integers](https://github.com/gajendrapawar01/LeetCode/tree/main/2899-last-visited-integers/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |

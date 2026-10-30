@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2899-last-visited-integers](https://github.com/gajendrapawar01/LeetCode/tree/main/2899-last-visited-integers/) | Easy |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/gajendrapawar01/LeetCode/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/gajendrapawar01/LeetCode/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
+| [2908-minimum-sum-of-mountain-triplets-i](https://github.com/gajendrapawar01/LeetCode/tree/main/2908-minimum-sum-of-mountain-triplets-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |

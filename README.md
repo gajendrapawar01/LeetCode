@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/gajendrapawar01/LeetCode/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/gajendrapawar01/LeetCode/tree/main/2908-minimum-sum-of-mountain-triplets-i/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gajendrapawar01/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2923-find-champion-i](https://github.com/gajendrapawar01/LeetCode/tree/main/2923-find-champion-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/gajendrapawar01/LeetCode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/gajendrapawar01/LeetCode/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/gajendrapawar01/LeetCode/tree/main/2639-find-the-width-of-columns-of-a-grid/) | Easy |
+| [2923-find-champion-i](https://github.com/gajendrapawar01/LeetCode/tree/main/2923-find-champion-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |

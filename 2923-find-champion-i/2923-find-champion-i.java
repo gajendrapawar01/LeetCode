@@ -6,6 +6,7 @@ class Solution {
             for(int j=0;j<grid.length;j++){
                 if(grid[j][i]==1){
                     ans++;
+                    break;
                 }
             }
             if(ans==0)return i;

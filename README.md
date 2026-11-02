@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/gajendrapawar01/LeetCode/tree/main/2908-minimum-sum-of-mountain-triplets-i/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gajendrapawar01/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2923-find-champion-i](https://github.com/gajendrapawar01/LeetCode/tree/main/2923-find-champion-i/) | Easy |
+| [2942-find-words-containing-character](https://github.com/gajendrapawar01/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2788-split-strings-by-separator](https://github.com/gajendrapawar01/LeetCode/tree/main/2788-split-strings-by-separator/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/gajendrapawar01/LeetCode/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/gajendrapawar01/LeetCode/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
+| [2942-find-words-containing-character](https://github.com/gajendrapawar01/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |

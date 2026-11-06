@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gajendrapawar01/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2923-find-champion-i](https://github.com/gajendrapawar01/LeetCode/tree/main/2923-find-champion-i/) | Easy |
 | [2942-find-words-containing-character](https://github.com/gajendrapawar01/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
+| [2960-count-tested-devices-after-test-operations](https://github.com/gajendrapawar01/LeetCode/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2682-find-the-losers-of-the-circular-game](https://github.com/gajendrapawar01/LeetCode/tree/main/2682-find-the-losers-of-the-circular-game/) | Easy |
 | [2717-semi-ordered-permutation](https://github.com/gajendrapawar01/LeetCode/tree/main/2717-semi-ordered-permutation/) | Easy |
 | [2899-last-visited-integers](https://github.com/gajendrapawar01/LeetCode/tree/main/2899-last-visited-integers/) | Easy |
+| [2960-count-tested-devices-after-test-operations](https://github.com/gajendrapawar01/LeetCode/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gajendrapawar01/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/gajendrapawar01/LeetCode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2748-number-of-beautiful-pairs](https://github.com/gajendrapawar01/LeetCode/tree/main/2748-number-of-beautiful-pairs/) | Easy |
+| [2960-count-tested-devices-after-test-operations](https://github.com/gajendrapawar01/LeetCode/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |

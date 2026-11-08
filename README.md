@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/gajendrapawar01/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [2960-count-tested-devices-after-test-operations](https://github.com/gajendrapawar01/LeetCode/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/gajendrapawar01/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/gajendrapawar01/LeetCode/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/gajendrapawar01/LeetCode/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gajendrapawar01/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/gajendrapawar01/LeetCode/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/gajendrapawar01/LeetCode/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gajendrapawar01/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2540-minimum-common-value](https://github.com/gajendrapawar01/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gajendrapawar01/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/gajendrapawar01/LeetCode/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -676,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/pawargajendra01/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/gajendrapawar01/LeetCode/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gajendrapawar01/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/gajendrapawar01/LeetCode/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |

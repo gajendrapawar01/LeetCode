@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2960-count-tested-devices-after-test-operations](https://github.com/gajendrapawar01/LeetCode/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/gajendrapawar01/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/gajendrapawar01/LeetCode/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
+| [2974-minimum-number-game](https://github.com/gajendrapawar01/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2717-semi-ordered-permutation](https://github.com/gajendrapawar01/LeetCode/tree/main/2717-semi-ordered-permutation/) | Easy |
 | [2899-last-visited-integers](https://github.com/gajendrapawar01/LeetCode/tree/main/2899-last-visited-integers/) | Easy |
 | [2960-count-tested-devices-after-test-operations](https://github.com/gajendrapawar01/LeetCode/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
+| [2974-minimum-number-game](https://github.com/gajendrapawar01/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2733-neither-minimum-nor-maximum](https://github.com/gajendrapawar01/LeetCode/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/gajendrapawar01/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gajendrapawar01/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [2974-minimum-number-game](https://github.com/gajendrapawar01/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/pawargajendra01/LeetCode/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/gajendrapawar01/LeetCode/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/gajendrapawar01/LeetCode/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
+| [2974-minimum-number-game](https://github.com/gajendrapawar01/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |

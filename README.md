@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/gajendrapawar01/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/gajendrapawar01/LeetCode/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 | [2974-minimum-number-game](https://github.com/gajendrapawar01/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/gajendrapawar01/LeetCode/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/gajendrapawar01/LeetCode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/gajendrapawar01/LeetCode/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2869-minimum-operations-to-collect-elements](https://github.com/gajendrapawar01/LeetCode/tree/main/2869-minimum-operations-to-collect-elements/) | Easy |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/gajendrapawar01/LeetCode/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2970-count-the-number-of-incremovable-subarrays-i](https://github.com/gajendrapawar01/LeetCode/tree/main/2970-count-the-number-of-incremovable-subarrays-i/) | Easy |
 | [2974-minimum-number-game](https://github.com/gajendrapawar01/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/gajendrapawar01/LeetCode/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gajendrapawar01/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2869-minimum-operations-to-collect-elements](https://github.com/gajendrapawar01/LeetCode/tree/main/2869-minimum-operations-to-collect-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gajendrapawar01/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/gajendrapawar01/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gajendrapawar01/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/gajendrapawar01/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/gajendrapawar01/LeetCode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2974-minimum-number-game](https://github.com/gajendrapawar01/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gajendrapawar01/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |

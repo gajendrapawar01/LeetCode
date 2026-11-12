@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/gajendrapawar01/LeetCode/tree/main/2908-minimum-sum-of-mountain-triplets-i/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gajendrapawar01/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2923-find-champion-i](https://github.com/gajendrapawar01/LeetCode/tree/main/2923-find-champion-i/) | Easy |
+| [2932-maximum-strong-pair-xor-i](https://github.com/gajendrapawar01/LeetCode/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2942-find-words-containing-character](https://github.com/gajendrapawar01/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [2960-count-tested-devices-after-test-operations](https://github.com/gajendrapawar01/LeetCode/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/gajendrapawar01/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2848-points-that-intersect-with-cars](https://github.com/gajendrapawar01/LeetCode/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [2869-minimum-operations-to-collect-elements](https://github.com/gajendrapawar01/LeetCode/tree/main/2869-minimum-operations-to-collect-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gajendrapawar01/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2932-maximum-strong-pair-xor-i](https://github.com/gajendrapawar01/LeetCode/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/gajendrapawar01/LeetCode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/gajendrapawar01/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## Stack
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/pawargajendra01/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/pawargajendra01/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/gajendrapawar01/LeetCode/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
+| [2932-maximum-strong-pair-xor-i](https://github.com/gajendrapawar01/LeetCode/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -542,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/gajendrapawar01/LeetCode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/gajendrapawar01/LeetCode/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2869-minimum-operations-to-collect-elements](https://github.com/gajendrapawar01/LeetCode/tree/main/2869-minimum-operations-to-collect-elements/) | Easy |
+| [2932-maximum-strong-pair-xor-i](https://github.com/gajendrapawar01/LeetCode/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/gajendrapawar01/LeetCode/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -715,4 +719,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gajendrapawar01/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2932-maximum-strong-pair-xor-i](https://github.com/gajendrapawar01/LeetCode/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 <!---LeetCode Topics End-->

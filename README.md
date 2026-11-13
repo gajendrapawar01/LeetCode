@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/gajendrapawar01/LeetCode/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/gajendrapawar01/LeetCode/tree/main/2908-minimum-sum-of-mountain-triplets-i/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/gajendrapawar01/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2917-find-the-k-or-of-an-array](https://github.com/gajendrapawar01/LeetCode/tree/main/2917-find-the-k-or-of-an-array/) | Easy |
 | [2923-find-champion-i](https://github.com/gajendrapawar01/LeetCode/tree/main/2923-find-champion-i/) | Easy |
 | [2932-maximum-strong-pair-xor-i](https://github.com/gajendrapawar01/LeetCode/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2942-find-words-containing-character](https://github.com/gajendrapawar01/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2506-count-pairs-of-similar-strings](https://github.com/gajendrapawar01/LeetCode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/gajendrapawar01/LeetCode/tree/main/2859-sum-of-values-at-indices-with-k-set-bits/) | Easy |
 | [2869-minimum-operations-to-collect-elements](https://github.com/gajendrapawar01/LeetCode/tree/main/2869-minimum-operations-to-collect-elements/) | Easy |
+| [2917-find-the-k-or-of-an-array](https://github.com/gajendrapawar01/LeetCode/tree/main/2917-find-the-k-or-of-an-array/) | Easy |
 | [2932-maximum-strong-pair-xor-i](https://github.com/gajendrapawar01/LeetCode/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/gajendrapawar01/LeetCode/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 ## Two Pointers

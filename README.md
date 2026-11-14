@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/pawargajendra01/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/pawargajendra01/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/pawargajendra01/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1598-crawler-log-folder](https://github.com/gajendrapawar01/LeetCode/tree/main/1598-crawler-log-folder/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/pawargajendra01/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/pawargajendra01/LeetCode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/pawargajendra01/LeetCode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/pawargajendra01/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/pawargajendra01/LeetCode/tree/master/0682-baseball-game) |
+| [1598-crawler-log-folder](https://github.com/gajendrapawar01/LeetCode/tree/main/1598-crawler-log-folder/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/pawargajendra01/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/pawargajendra01/LeetCode/tree/master/1154-day-of-the-year) |
 | [1408-string-matching-in-an-array](https://github.com/pawargajendra01/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1528-shuffle-string](https://github.com/pawargajendra01/LeetCode/tree/master/1528-shuffle-string) |
+| [1598-crawler-log-folder](https://github.com/gajendrapawar01/LeetCode/tree/main/1598-crawler-log-folder/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/pawargajendra01/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pawargajendra01/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/pawargajendra01/LeetCode/tree/master/2085-count-common-words-with-one-occurrence) |

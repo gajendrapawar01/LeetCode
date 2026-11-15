@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/pawargajendra01/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/pawargajendra01/LeetCode/tree/master/1528-shuffle-string) |
 | [1550-three-consecutive-odds](https://github.com/pawargajendra01/LeetCode/tree/master/1550-three-consecutive-odds) |
+| [1560-most-visited-sector-in-a-circular-track](https://github.com/gajendrapawar01/LeetCode/tree/main/1560-most-visited-sector-in-a-circular-track/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/pawargajendra01/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/pawargajendra01/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1598-crawler-log-folder](https://github.com/gajendrapawar01/LeetCode/tree/main/1598-crawler-log-folder/) | Easy |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-available-captures-for-rook](https://github.com/pawargajendra01/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/pawargajendra01/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/pawargajendra01/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1560-most-visited-sector-in-a-circular-track](https://github.com/gajendrapawar01/LeetCode/tree/main/1560-most-visited-sector-in-a-circular-track/) | Easy |
 | [1646-get-maximum-in-generated-array](https://github.com/pawargajendra01/LeetCode/tree/master/1646-get-maximum-in-generated-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/pawargajendra01/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/pawargajendra01/LeetCode/tree/master/1920-build-array-from-permutation) |

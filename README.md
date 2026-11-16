@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/pawargajendra01/LeetCode/tree/master/1002-find-common-characters) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/pawargajendra01/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/pawargajendra01/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/gajendrapawar01/LeetCode/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1037-valid-boomerang](https://github.com/pawargajendra01/LeetCode/tree/master/1037-valid-boomerang) |
 | [1046-last-stone-weight](https://github.com/pawargajendra01/LeetCode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/pawargajendra01/LeetCode/tree/master/1051-height-checker) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0645-set-mismatch](https://github.com/pawargajendra01/LeetCode/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/pawargajendra01/LeetCode/tree/master/0832-flipping-an-image) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/gajendrapawar01/LeetCode/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/pawargajendra01/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2032-two-out-of-three](https://github.com/pawargajendra01/LeetCode/tree/master/2032-two-out-of-three) |
 | [2506-count-pairs-of-similar-strings](https://github.com/gajendrapawar01/LeetCode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |

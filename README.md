@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/pawargajendra01/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/pawargajendra01/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/gajendrapawar01/LeetCode/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
+| [1030-matrix-cells-in-distance-order](https://github.com/gajendrapawar01/LeetCode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1037-valid-boomerang](https://github.com/pawargajendra01/LeetCode/tree/master/1037-valid-boomerang) |
 | [1046-last-stone-weight](https://github.com/pawargajendra01/LeetCode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/pawargajendra01/LeetCode/tree/master/1051-height-checker) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/pawargajendra01/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/pawargajendra01/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/pawargajendra01/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1030-matrix-cells-in-distance-order](https://github.com/gajendrapawar01/LeetCode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1051-height-checker](https://github.com/pawargajendra01/LeetCode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/pawargajendra01/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/pawargajendra01/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/pawargajendra01/LeetCode/tree/master/0867-transpose-matrix) |
 | [0892-surface-area-of-3d-shapes](https://github.com/pawargajendra01/LeetCode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0999-available-captures-for-rook](https://github.com/pawargajendra01/LeetCode/tree/master/0999-available-captures-for-rook) |
+| [1030-matrix-cells-in-distance-order](https://github.com/gajendrapawar01/LeetCode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1260-shift-2d-grid](https://github.com/pawargajendra01/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/pawargajendra01/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/pawargajendra01/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-surface-area-of-3d-shapes](https://github.com/pawargajendra01/LeetCode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0976-largest-perimeter-triangle](https://github.com/pawargajendra01/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/pawargajendra01/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
+| [1030-matrix-cells-in-distance-order](https://github.com/gajendrapawar01/LeetCode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1037-valid-boomerang](https://github.com/pawargajendra01/LeetCode/tree/master/1037-valid-boomerang) |
 | [1154-day-of-the-year](https://github.com/pawargajendra01/LeetCode/tree/master/1154-day-of-the-year) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/pawargajendra01/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -614,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0812-largest-triangle-area](https://github.com/pawargajendra01/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0892-surface-area-of-3d-shapes](https://github.com/pawargajendra01/LeetCode/tree/master/0892-surface-area-of-3d-shapes) |
+| [1030-matrix-cells-in-distance-order](https://github.com/gajendrapawar01/LeetCode/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1037-valid-boomerang](https://github.com/pawargajendra01/LeetCode/tree/master/1037-valid-boomerang) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/pawargajendra01/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Graph Theory

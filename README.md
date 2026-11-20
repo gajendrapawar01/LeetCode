@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pawargajendra01/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/pawargajendra01/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/pawargajendra01/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/gajendrapawar01/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/gajendrapawar01/LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/pawargajendra01/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/pawargajendra01/LeetCode/tree/master/0495-teemo-attacking) |
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/gajendrapawar01/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/pawargajendra01/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/pawargajendra01/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/gajendrapawar01/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/gajendrapawar01/LeetCode/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |

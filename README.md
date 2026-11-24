@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/pawargajendra01/LeetCode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/pawargajendra01/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/pawargajendra01/LeetCode/tree/master/0575-distribute-candies) |
+| [0598-range-addition-ii](https://github.com/gajendrapawar01/LeetCode/tree/main/0598-range-addition-ii/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/pawargajendra01/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/pawargajendra01/LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pawargajendra01/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/gajendrapawar01/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0598-range-addition-ii](https://github.com/gajendrapawar01/LeetCode/tree/main/0598-range-addition-ii/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/pawargajendra01/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/pawargajendra01/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0892-surface-area-of-3d-shapes](https://github.com/pawargajendra01/LeetCode/tree/master/0892-surface-area-of-3d-shapes) |
